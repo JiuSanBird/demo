@@ -1,6 +1,3 @@
 TextTest11
-<<<<<<< Updated upstream
 456789
-=======
 123456
->>>>>>> Stashed changes
